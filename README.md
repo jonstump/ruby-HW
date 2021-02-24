@@ -82,10 +82,9 @@ code .
 
 * * *
 
-## License:
-> *&copy; Jon Stump, Pair Partner  2021*
-
-Licensed under [MIT license](https://mit-license.org/)
+## License
+> [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
+> Jon Stump, pair partner &copy; 2021
 
 * * *
 
